@@ -1,11 +1,12 @@
-
-
 .profile-photo {
     width: 150px;
     height: 150px;
     border-radius: 50%;
     border: 1px solid black; 
     margin: 0 auto; 
+    background-image: url(/src/RAUL.png);
+    background-size:cover ;
+    background-position:center ;
 }
 
 body {
@@ -23,9 +24,9 @@ th, td {
 .container {
     width: 80%;
     margin: 0 auto;
-    background-color: #f2f2f2; /* Ejemplo de color de fondo */
+    background-color: #f2f2f2; 
     padding: 20px;
-    border-radius: 10px; /* Ejemplo de borde redondeado */
+    border-radius: 10px; 
 }
 
 .titulo {
